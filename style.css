@@ -1,0 +1,31 @@
+body{
+    margin:20px;
+    background-color: darkolivegreen;
+}
+
+textarea{
+    background-color: lightcyan;
+    width: 400px;
+}
+button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#lettersDiv{
+    padding:10px;
+    border: 1px solid #181818;
+    width: 380px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightgoldenrodyellow;
+}
+
+#wordsDiv{
+    padding:10px;
+    border: 1px solid #181818;
+    width: 380px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightgoldenrodyellow;
+}
